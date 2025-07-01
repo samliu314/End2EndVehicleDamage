@@ -1,0 +1,13 @@
+train: ../train/images
+val: ../valid/images
+test: ../test/images
+
+nc: 15
+names: ['back_glass', 'back_left_side_light', 'back_right_side_light', 'door', 'front_bumper', 'front_glass', 'front_left_side_door', 'front_left_side_light', 'front_left_side_mirror', 'front_right_side_door', 'front_right_side_light', 'front_right_side_mirror', 'hood', 'rear_bumper', 'wheel']
+
+roboflow:
+  workspace: detection-mklmw
+  project: car-components-dataset-gipax
+  version: 1
+  license: CC BY 4.0
+  url: https://universe.roboflow.com/detection-mklmw/car-components-dataset-gipax/dataset/1
