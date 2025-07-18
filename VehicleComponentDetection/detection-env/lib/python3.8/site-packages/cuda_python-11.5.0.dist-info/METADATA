@@ -1,0 +1,29 @@
+Metadata-Version: 2.1
+Name: cuda-python
+Version: 11.5.0
+Summary: Python bindings for CUDA
+Home-page: https://github.com/NVIDIA/cuda-python
+Author: NVIDIA Corporation
+Author-email: cuda-python-conduct@nvidia.com
+License: Other
+Platform: UNKNOWN
+Classifier: Intended Audience :: Developers
+Classifier: Topic :: Database
+Classifier: Topic :: Scientific/Engineering
+Classifier: License :: Other/Proprietary License
+Classifier: Programming Language :: Python
+Classifier: Programming Language :: Python :: 3.7
+Classifier: Programming Language :: Python :: 3.8
+Classifier: Programming Language :: Python :: 3.9
+Classifier: Environment :: GPU :: NVIDIA CUDA
+Classifier: Environment :: GPU :: NVIDIA CUDA :: 11.0
+Classifier: Environment :: GPU :: NVIDIA CUDA :: 11.1
+Classifier: Environment :: GPU :: NVIDIA CUDA :: 11.2
+Classifier: Environment :: GPU :: NVIDIA CUDA :: 11.3
+Classifier: Environment :: GPU :: NVIDIA CUDA :: 11.4
+Classifier: Environment :: GPU :: NVIDIA CUDA :: 11.5
+License-File: LICENSE
+Requires-Dist: cython
+
+UNKNOWN
+
